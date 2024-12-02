@@ -27,7 +27,7 @@ This is a minimal viable product (MVP) that automates the process of filing pape
 - An OpenAI API key. Sign up at [OpenAI](https://openai.com/) to obtain one.
 
 ### Installation
-
+ 
 1. **Clone the Repository**
 
    ```bash
